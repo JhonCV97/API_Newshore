@@ -359,3 +359,24 @@ VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
 2024-01-24 21:35:17.627 -05:00 [INF] Executed endpoint 'BaseBackProjects.Api.Controllers.JourneyController.GetRoute (BaseBackProjects.Api)'
 2024-01-24 21:35:17.629 -05:00 [INF] HTTP GET /api/Journey responded 200 in 49845.6116 ms
 2024-01-24 21:35:17.636 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/api/Journey?Origin=MZL&Destination=BOG&LongestRoute=true - - - 200 435 application/json;+charset=utf-8 49867.5693ms
+2024-01-24 23:34:39.972 -05:00 [INF] User profile is available. Using 'C:\Users\Jhon\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-24 23:34:40.273 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 23:34:40.274 -05:00 [INF] Hosting environment: Development
+2024-01-24 23:34:40.274 -05:00 [INF] Content root path: D:\Proyectos Programacion\API_Newshore\BaseBackProjects.Api
+2024-01-24 23:34:40.356 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - -
+2024-01-24 23:34:40.824 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - - - 200 - text/html;charset=utf-8 468.9178ms
+2024-01-24 23:34:40.824 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - -
+2024-01-24 23:34:40.830 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - - - 200 12010 application/javascript;+charset=utf-8 4.8700ms
+2024-01-24 23:34:41.450 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - -
+2024-01-24 23:34:41.563 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 112.9239ms
+2024-01-24 23:34:41.637 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - -
+2024-01-24 23:34:41.803 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 166.6025ms
+2024-01-24 23:35:31.932 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/api/Journey?Origin=MZL&Destination=MZL - -
+2024-01-24 23:35:31.979 -05:00 [INF] Executing endpoint 'BaseBackProjects.Api.Controllers.JourneyController.GetRoute (BaseBackProjects.Api)'
+2024-01-24 23:35:32.023 -05:00 [INF] Route matched with {action = "GetRoute", controller = "Journey"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetRoute(Application.Cqrs.Journey.Queries.GetRouteQuery) on controller BaseBackProjects.Api.Controllers.JourneyController (BaseBackProjects.Api).
+2024-01-24 23:35:32.402 -05:00 [ERR] GetRoute => {@ex.Message}
+2024-01-24 23:35:32.504 -05:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-01-24 23:35:32.587 -05:00 [INF] Executed action BaseBackProjects.Api.Controllers.JourneyController.GetRoute (BaseBackProjects.Api) in 560.2444ms
+2024-01-24 23:35:32.587 -05:00 [INF] Executed endpoint 'BaseBackProjects.Api.Controllers.JourneyController.GetRoute (BaseBackProjects.Api)'
+2024-01-24 23:35:32.589 -05:00 [INF] HTTP GET /api/Journey responded 400 in 614.1612 ms
+2024-01-24 23:35:32.591 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/api/Journey?Origin=MZL&Destination=MZL - - - 400 249 application/problem+json;+charset=utf-8 658.9342ms

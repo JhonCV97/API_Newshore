@@ -49,9 +49,14 @@ namespace Application.Services.Journey
 
             try
             {
+                if (getRouteQuery.Destination.ToUpper().Equals(getRouteQuery.Origin.ToUpper()))
+                {
+                    throw new BadRequestException("La ruta de Origen y destino no pueden ser iguales");
+                }
+
                 var JourneyFlight = _unitOfWork.JourneyRepository.Get()
-                                                                .Where(j => j.Destination == getRouteQuery.Destination)
-                                                                .Where(j => j.Origin == getRouteQuery.Origin)
+                                                                .Where(j => j.Destination == getRouteQuery.Destination.ToUpper())
+                                                                .Where(j => j.Origin == getRouteQuery.Origin.ToUpper())
                                                                 .Where(j => j.LongestRoute == getRouteQuery.LongestRoute)
                                                                     .Include(jf => jf.JourneyFlight)
                                                                     .ThenInclude(f => f.Flight)
@@ -91,7 +96,7 @@ namespace Application.Services.Journey
                 response.Result = false;
                 response.Message = $"Error al consultar el registro, consulte con el administrador. {ex.Message} ";                
                 Log.Error("GetRoute => {@ex.Message}", ex.Message);
-                throw new BadRequestException($"Error al consultar el registro, consulte con el administrador. {ex.Message} ");
+                throw new BadRequestException($"Error al consultar el registro. {ex.Message} ");
             }
 
             return response;
