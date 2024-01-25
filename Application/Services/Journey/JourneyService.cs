@@ -6,8 +6,10 @@ using Application.DTOs.Journey;
 using Application.DTOs.JourneyFlight;
 using Application.DTOs.RequestFlight;
 using Application.DTOs.Transport;
+using Application.Interfaces.EncryptAndDecrypt;
 using Application.Interfaces.Journey;
 using Application.Interfaces.SearchAlgorithm;
+using Application.Services.EncryptAndDecrypt;
 using AutoMapper;
 using Domain.Interfaces;
 using Domain.Models.Flight;
@@ -26,15 +28,18 @@ namespace Application.Services.Journey
         private readonly IMapper _autoMapper;
         private readonly ISearchShortRouteService _searchShortRouteService;
         private readonly ISearchLongestRouteService _searchLongestRouteService;
-        private readonly string? _urlRequest;
+        private readonly IEncryptAndDecryptService _encryptAndDecryptService;
+        private string? _urlRequest;
         private static Dictionary<string, string> responseCache = new Dictionary<string, string>();
         public JourneyService(IUnitOfWork unitOfWork, IMapper autoMapper, IConfiguration config,
-                             ISearchShortRouteService searchShortRouteService, ISearchLongestRouteService searchLongestRouteService)
+                             ISearchShortRouteService searchShortRouteService, ISearchLongestRouteService searchLongestRouteService,
+                             IEncryptAndDecryptService encryptAndDecryptService)
         {
             _unitOfWork = unitOfWork;
             _autoMapper = autoMapper;
             _searchShortRouteService = searchShortRouteService;
             _searchLongestRouteService = searchLongestRouteService;
+            _encryptAndDecryptService = encryptAndDecryptService;
             _urlRequest = config["UrlRequest"];
         }
 
@@ -59,6 +64,9 @@ namespace Application.Services.Journey
 
                 if (JourneyFlight == null)
                 {
+                    //Se desencripta la url de la api para peticion
+                    _urlRequest = _encryptAndDecryptService.Decrypt(_urlRequest);
+
                     var listJourney = ListJourney(_urlRequest).Result;
                     route = await getNewRoute(getRouteQuery, listJourney);
                     Log.Information("GetRoute => {@route}", route);

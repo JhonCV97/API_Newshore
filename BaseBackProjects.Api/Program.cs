@@ -1,3 +1,4 @@
+using Application.Common.ConnectionString;
 using Application.Common.Interfaces;
 using Application.Common.Options;
 using Application.Cqrs.User.Commands;
@@ -20,8 +21,12 @@ var Configuration = builder.Configuration;
 // Add services to the container.
 builder.Services.AddControllers();
 
+//var connectionString = new ConnectionString(Configuration);
+
 builder.Services.AddDbContext<AplicationDBContext>(options => {
     options.UseSqlServer(Configuration.GetConnectionString("AplicationDBContext"));
+
+    //options.UseSqlServer(connectionString.DecryptConnection());
 });
 
 builder.Services.Configure<PasswordOptions>(Configuration.GetSection("PasswordOptions"));
