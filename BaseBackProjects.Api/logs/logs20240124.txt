@@ -1,0 +1,56 @@
+2024-01-24 20:14:11.213 -05:00 [INF] User profile is available. Using 'C:\Users\Jhon\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-24 20:14:11.380 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 20:14:11.407 -05:00 [INF] Hosting environment: Development
+2024-01-24 20:14:11.407 -05:00 [INF] Content root path: D:\Proyectos Programacion\API_Newshore\BaseBackProjects.Api
+2024-01-24 20:14:11.437 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - -
+2024-01-24 20:14:11.807 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - - - 200 - text/html;charset=utf-8 371.2916ms
+2024-01-24 20:14:11.810 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - -
+2024-01-24 20:14:11.820 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - - - 200 12010 application/javascript;+charset=utf-8 6.6269ms
+2024-01-24 20:14:12.312 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - -
+2024-01-24 20:14:12.378 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.6919ms
+2024-01-24 20:14:12.441 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - -
+2024-01-24 20:14:12.559 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 118.0550ms
+2024-01-24 20:33:08.686 -05:00 [INF] User profile is available. Using 'C:\Users\Jhon\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-24 20:33:08.871 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 20:33:08.897 -05:00 [INF] Hosting environment: Development
+2024-01-24 20:33:08.897 -05:00 [INF] Content root path: D:\Proyectos Programacion\API_Newshore\BaseBackProjects.Api
+2024-01-24 20:33:08.926 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - -
+2024-01-24 20:33:09.265 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - - - 200 - text/html;charset=utf-8 339.7051ms
+2024-01-24 20:33:09.266 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - -
+2024-01-24 20:33:09.276 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - - - 200 12010 application/javascript;+charset=utf-8 6.1572ms
+2024-01-24 20:33:09.796 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - -
+2024-01-24 20:33:09.851 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.3610ms
+2024-01-24 20:33:09.921 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - -
+2024-01-24 20:33:10.059 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 137.6376ms
+2024-01-24 20:33:23.872 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44355/api/Role application/json-patch+json 67
+2024-01-24 20:33:23.884 -05:00 [INF] CORS policy execution successful.
+2024-01-24 20:33:23.887 -05:00 [INF] Executing endpoint 'BaseBackProjects.Api.Controllers.RoleController.PostRole (BaseBackProjects.Api)'
+2024-01-24 20:33:23.906 -05:00 [INF] Route matched with {action = "PostRole", controller = "Role"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostRole(Application.Cqrs.Role.Commands.PostRoleCommand) on controller BaseBackProjects.Api.Controllers.RoleController (BaseBackProjects.Api).
+2024-01-24 20:33:27.240 -05:00 [INF] Executed DbCommand (52ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Guid), @p3='?' (Size = 4000), @p4='?' (DbType = DateTime2), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (DbType = Boolean), @p8='?' (DbType = DateTime2), @p9='?' (DbType = Guid), @p10='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Rols] ([Id], [CreatedAt], [CreatedBy], [CreatedByName], [DeletedAt], [DisplayName], [Name], [Status], [UpdatedAt], [UpdatedBy], [UpdatedByName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10);
+2024-01-24 20:33:27.275 -05:00 [INF] Executing OkObjectResult, writing value of type 'Application.Common.Response.ApiResponse`1[[Application.DTOs.Role.RoleDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-24 20:33:27.307 -05:00 [INF] Executed action BaseBackProjects.Api.Controllers.RoleController.PostRole (BaseBackProjects.Api) in 3398.4757ms
+2024-01-24 20:33:27.308 -05:00 [INF] Executed endpoint 'BaseBackProjects.Api.Controllers.RoleController.PostRole (BaseBackProjects.Api)'
+2024-01-24 20:33:27.310 -05:00 [INF] HTTP POST /api/Role responded 200 in 3427.7092 ms
+2024-01-24 20:33:27.318 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44355/api/Role application/json-patch+json 67 - 200 124 application/json;+charset=utf-8 3446.5368ms
+2024-01-24 20:33:40.021 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/api/Role - -
+2024-01-24 20:33:40.023 -05:00 [INF] Executing endpoint 'BaseBackProjects.Api.Controllers.RoleController.GetRoles (BaseBackProjects.Api)'
+2024-01-24 20:33:40.027 -05:00 [INF] Route matched with {action = "GetRoles", controller = "Role"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetRoles() on controller BaseBackProjects.Api.Controllers.RoleController (BaseBackProjects.Api).
+2024-01-24 20:33:40.247 -05:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[CreatedAt], [r].[CreatedBy], [r].[CreatedByName], [r].[DeletedAt], [r].[DisplayName], [r].[Name], [r].[Status], [r].[UpdatedAt], [r].[UpdatedBy], [r].[UpdatedByName]
+FROM [Rols] AS [r]
+2024-01-24 20:33:40.270 -05:00 [INF] Executing OkObjectResult, writing value of type 'Application.Common.Response.ApiResponse`1[[System.Collections.Generic.List`1[[Application.DTOs.Role.RoleDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-24 20:33:40.276 -05:00 [INF] Executed action BaseBackProjects.Api.Controllers.RoleController.GetRoles (BaseBackProjects.Api) in 249.599ms
+2024-01-24 20:33:40.277 -05:00 [INF] Executed endpoint 'BaseBackProjects.Api.Controllers.RoleController.GetRoles (BaseBackProjects.Api)'
+2024-01-24 20:33:40.277 -05:00 [INF] HTTP GET /api/Role responded 200 in 254.2159 ms
+2024-01-24 20:33:40.277 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/api/Role - - - 200 126 application/json;+charset=utf-8 255.8657ms
+2024-01-24 20:33:49.105 -05:00 [INF] Request starting HTTP/2 PUT https://localhost:44355/api/Role application/json-patch+json 113
+2024-01-24 20:33:49.106 -05:00 [INF] CORS policy execution successful.
+2024-01-24 20:33:49.115 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-01-24 20:33:49.118 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-01-24 20:33:49.118 -05:00 [INF] HTTP PUT /api/Role responded 401 in 12.6630 ms
+2024-01-24 20:33:49.120 -05:00 [INF] Request finished HTTP/2 PUT https://localhost:44355/api/Role application/json-patch+json 113 - 401 - - 14.1192ms

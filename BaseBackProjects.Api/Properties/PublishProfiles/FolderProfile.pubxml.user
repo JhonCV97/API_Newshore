@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\10.150.205.205\wwwroot\APICredentialsEnel</_PublishTargetUrl>
+    <History>True|2023-10-19T22:45:48.4190158Z;True|2023-10-19T16:33:58.1926121-05:00;True|2023-10-19T16:24:30.4997428-05:00;True|2023-10-19T16:24:04.8703711-05:00;True|2023-10-19T16:13:35.0852178-05:00;True|2023-10-19T16:10:42.1318945-05:00;True|2023-10-19T16:07:25.6728829-05:00;True|2023-10-19T09:57:05.2882280-05:00;True|2023-10-19T09:01:00.3370802-05:00;False|2023-10-19T09:00:25.6299913-05:00;True|2023-10-19T08:35:42.4315916-05:00;False|2023-10-19T08:35:27.0125220-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

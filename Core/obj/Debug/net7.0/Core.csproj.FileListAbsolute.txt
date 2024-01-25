@@ -1,0 +1,40 @@
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\bin\Debug\net7.0\Core.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\Core.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Core\obj\Debug\net7.0\ref\Core.dll
+D:\Proyectos Programacion\BaseBackProjects\Core\bin\Debug\net7.0\Core.deps.json
+D:\Proyectos Programacion\BaseBackProjects\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+D:\Proyectos Programacion\BaseBackProjects\Core\bin\Debug\net7.0\Core.dll
+D:\Proyectos Programacion\BaseBackProjects\Core\bin\Debug\net7.0\Core.pdb
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.dll
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\refint\Core.dll
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.pdb
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+D:\Proyectos Programacion\BaseBackProjects\Core\obj\Debug\net7.0\ref\Core.dll
+D:\Proyectos Programacion\API_Newshore\Core\bin\Debug\net7.0\Core.deps.json
+D:\Proyectos Programacion\API_Newshore\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+D:\Proyectos Programacion\API_Newshore\Core\bin\Debug\net7.0\Core.dll
+D:\Proyectos Programacion\API_Newshore\Core\bin\Debug\net7.0\Core.pdb
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.dll
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\refint\Core.dll
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.pdb
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+D:\Proyectos Programacion\API_Newshore\Core\obj\Debug\net7.0\ref\Core.dll

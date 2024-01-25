@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tx3W9hJTvJmASdUl2nxy9USqTk5ebZA0Sj31oFaJrH0=",
+  "Source": "KeeperWebEnel.Api",
+  "BasePath": "_content/KeeperWebEnel.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

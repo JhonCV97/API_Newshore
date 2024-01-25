@@ -1,0 +1,61 @@
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.deps.json
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Application.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Domain.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Infra.Data.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Application.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Domain.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\bin\Debug\net7.0\Infra.Data.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.AssemblyInfo.cs
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.CopyComplete
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\refint\Infra.Ioc.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Infra.Ioc\obj\Debug\net7.0\ref\Infra.Ioc.dll
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.deps.json
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.runtimeconfig.json
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.dll
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.pdb
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Application.dll
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Domain.dll
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Infra.Data.dll
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Application.pdb
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Domain.pdb
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\bin\Debug\net7.0\Infra.Data.pdb
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.AssemblyReference.cache
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.AssemblyInfoInputs.cache
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.AssemblyInfo.cs
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.CoreCompileInputs.cache
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.CopyComplete
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.dll
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\refint\Infra.Ioc.dll
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.pdb
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.genruntimeconfig.cache
+D:\Proyectos Programacion\BaseBackProjects\Infra.Ioc\obj\Debug\net7.0\ref\Infra.Ioc.dll
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.AssemblyReference.cache
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.AssemblyInfoInputs.cache
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.AssemblyInfo.cs
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.CoreCompileInputs.cache
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.dll
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\refint\Infra.Ioc.dll
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.pdb
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.deps.json
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.runtimeconfig.json
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.dll
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Infra.Ioc.pdb
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Application.dll
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Domain.dll
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Infra.Data.dll
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Application.pdb
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Domain.pdb
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\bin\Debug\net7.0\Infra.Data.pdb
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.csproj.CopyComplete
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\Infra.Ioc.genruntimeconfig.cache
+D:\Proyectos Programacion\API_Newshore\Infra.Ioc\obj\Debug\net7.0\ref\Infra.Ioc.dll

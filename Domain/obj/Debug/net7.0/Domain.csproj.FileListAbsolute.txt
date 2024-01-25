@@ -1,0 +1,40 @@
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\BB4972\source\repos\BaseBackProjects.Api\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Proyectos Programacion\BaseBackProjects\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Proyectos Programacion\BaseBackProjects\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+D:\Proyectos Programacion\BaseBackProjects\Domain\bin\Debug\net7.0\Domain.dll
+D:\Proyectos Programacion\BaseBackProjects\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.dll
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache
+D:\Proyectos Programacion\BaseBackProjects\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Proyectos Programacion\API_Newshore\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Proyectos Programacion\API_Newshore\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+D:\Proyectos Programacion\API_Newshore\Domain\bin\Debug\net7.0\Domain.dll
+D:\Proyectos Programacion\API_Newshore\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.dll
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache
+D:\Proyectos Programacion\API_Newshore\Domain\obj\Debug\net7.0\ref\Domain.dll
