@@ -54,3 +54,27 @@ DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
 2024-01-24 20:33:49.118 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
 2024-01-24 20:33:49.118 -05:00 [INF] HTTP PUT /api/Role responded 401 in 12.6630 ms
 2024-01-24 20:33:49.120 -05:00 [INF] Request finished HTTP/2 PUT https://localhost:44355/api/Role application/json-patch+json 113 - 401 - - 14.1192ms
+2024-01-24 20:39:24.784 -05:00 [INF] User profile is available. Using 'C:\Users\Jhon\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-24 20:39:24.970 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 20:39:25.009 -05:00 [INF] Hosting environment: Development
+2024-01-24 20:39:25.009 -05:00 [INF] Content root path: D:\Proyectos Programacion\API_Newshore\BaseBackProjects.Api
+2024-01-24 20:39:25.040 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - -
+2024-01-24 20:39:25.371 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - - - 200 - text/html;charset=utf-8 322.3810ms
+2024-01-24 20:39:25.371 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - -
+2024-01-24 20:39:25.377 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - - - 200 12010 application/javascript;+charset=utf-8 4.0822ms
+2024-01-24 20:39:25.841 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - -
+2024-01-24 20:39:25.892 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.5120ms
+2024-01-24 20:39:25.976 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - -
+2024-01-24 20:39:26.115 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 139.0575ms
+2024-01-24 20:43:06.812 -05:00 [INF] User profile is available. Using 'C:\Users\Jhon\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-24 20:43:07.081 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 20:43:07.111 -05:00 [INF] Hosting environment: Development
+2024-01-24 20:43:07.111 -05:00 [INF] Content root path: D:\Proyectos Programacion\API_Newshore\BaseBackProjects.Api
+2024-01-24 20:43:07.153 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - -
+2024-01-24 20:43:07.756 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - - - 200 - text/html;charset=utf-8 605.3198ms
+2024-01-24 20:43:08.555 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - -
+2024-01-24 20:43:08.561 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - -
+2024-01-24 20:43:08.565 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - - - 200 12010 application/javascript;+charset=utf-8 9.2861ms
+2024-01-24 20:43:08.648 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 87.3340ms
+2024-01-24 20:43:08.743 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - -
+2024-01-24 20:43:08.904 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 161.5200ms

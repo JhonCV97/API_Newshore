@@ -1,6 +1,10 @@
 ﻿using Application.Common.Interfaces;
 using Domain.Models.Entity;
+using Domain.Models.Flight;
+using Domain.Models.Journey;
+using Domain.Models.JourneyFlight;
 using Domain.Models.Role;
+using Domain.Models.Transport;
 using Domain.Models.User;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,6 +21,10 @@ namespace Infra.Data.Context
 
         public DbSet<Role> Rols { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Transport> Transport { get; set; }
+        public DbSet<Flight> Flight { get; set; }
+        public DbSet<Journey> Journey { get; set; }
+        public DbSet<JourneyFlight> JourneyFlight { get; set; }
 
 
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
