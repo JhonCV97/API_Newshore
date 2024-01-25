@@ -78,3 +78,15 @@ DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
 2024-01-24 20:43:08.648 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 87.3340ms
 2024-01-24 20:43:08.743 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - -
 2024-01-24 20:43:08.904 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 161.5200ms
+2024-01-24 20:50:02.272 -05:00 [INF] User profile is available. Using 'C:\Users\Jhon\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-24 20:50:02.479 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 20:50:02.522 -05:00 [INF] Hosting environment: Development
+2024-01-24 20:50:02.522 -05:00 [INF] Content root path: D:\Proyectos Programacion\API_Newshore\BaseBackProjects.Api
+2024-01-24 20:50:02.555 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - -
+2024-01-24 20:50:02.959 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - - - 200 - text/html;charset=utf-8 392.6028ms
+2024-01-24 20:50:02.961 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - -
+2024-01-24 20:50:02.971 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - - - 200 12010 application/javascript;+charset=utf-8 3.9812ms
+2024-01-24 20:50:03.739 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - -
+2024-01-24 20:50:03.789 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.2609ms
+2024-01-24 20:50:03.892 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - -
+2024-01-24 20:50:04.075 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 183.3708ms

@@ -1,10 +1,14 @@
 ﻿using Application.Interfaces.Auths;
 using Application.Interfaces.EncryptAndDecrypt;
+using Application.Interfaces.Journey;
 using Application.Interfaces.Roles;
+using Application.Interfaces.SearchAlgorithm;
 using Application.Interfaces.User;
 using Application.Services.Auths;
 using Application.Services.EncryptAndDecrypt;
+using Application.Services.Journey;
 using Application.Services.Roles;
+using Application.Services.SearchAlgorithm;
 using Application.Services.User;
 using Domain.Interfaces;
 using Infra.Data.Repository;
@@ -27,6 +31,12 @@ namespace Infra.Ioc
             services.AddScoped<IPasswordHasher, PasswordHasher>();
             // EncryptAndDecrypt
             services.AddScoped<IEncryptAndDecryptService, EncryptAndDecryptService>();
+            //JourneyService
+            services.AddScoped<IJourneyService, JourneyService>();
+            //SearchShortRouteService
+            services.AddScoped<ISearchShortRouteService, SearchShortRouteService>();
+            //SearchLongestRouteService
+            services.AddScoped<ISearchLongestRouteService, SearchLongestRouteService>();
 
         }
     }
